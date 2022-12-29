@@ -4,8 +4,8 @@
 3-[V] Escreva um programa onde, você chame uma função, e ela diga a hora exata!
 4-[V] Escreva um programa onde, você chame uma função, e ela diga que ano estamos!
 5-[V] Escreva um programa onde, você chame uma função mandando dois argumentos, 2 números, e a função responde qual número é maior
-6-[] A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber: - média do salário da população; - média do número de filhos; - maior salário; - O final da leitura de dados se dará com a entrada de um salário negativo. - Faça isso usando uma função!
-7-[ ] Faça um programa onde, você chame uma função que calcule a taxa mensal de juros de um investimento.
+6-[/] A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber: - média do salário da população; - média do número de filhos; - maior salário; - O final da leitura de dados se dará com a entrada de um salário negativo. - Faça isso usando uma função!
+7-[/] Faça um programa onde, você chame uma função que calcule a taxa mensal de juros de um investimento.
 Você deve enviar como argumentos da função - Valor inicial investido - Valor atual do investimento - Tempo em meses, que o valor está investidoA função deve RETORNAR a taxa de juros, já formatada. Ex: 2,5%. Siga a formula desse vídeo para te auxiliar com o cálculo.
 Cálculo taxa = juros(Valor atual do investimento - Valor inicial investido) / Valor inicial investido * tempo
 8-[ ] Escreva um programa onde, você cria uma função geradora de desconto.
